@@ -1,0 +1,7 @@
+﻿  mainApplication.cpp
+c:\users\matthew\documents\mega\university of dayton\ud spring junior year\cps 592 rev code eng\lab2\lab2\mainapplication.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\documents\mega\university of dayton\ud spring junior year\cps 592 rev code eng\lab2\lab2\mainapplication.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\documents\mega\university of dayton\ud spring junior year\cps 592 rev code eng\lab2\lab2\mainapplication.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\documents\mega\university of dayton\ud spring junior year\cps 592 rev code eng\lab2\lab2\mainapplication.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  Lab2.vcxproj -> C:\Users\Matthew\Documents\MEGA\University of Dayton\UD Spring Junior Year\CPS 592 Rev Code Eng\Lab2\Debug\Lab2.exe
+  Lab2.vcxproj -> C:\Users\Matthew\Documents\MEGA\University of Dayton\UD Spring Junior Year\CPS 592 Rev Code Eng\Lab2\Debug\Lab2.pdb (Full PDB)
